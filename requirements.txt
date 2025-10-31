@@ -1,0 +1,15 @@
+functions-framework
+python-telegram-bot
+langchain
+langchain-google-genai
+langchain-google-firestore
+google-cloud-firestore
+google-cloud-storage
+google-cloud-secret-manager
+google-cloud-pubsub
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+langchain-google-vertexai
+google-cloud-aiplatform
+flask>=2.3
