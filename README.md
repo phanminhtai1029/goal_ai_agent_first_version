@@ -1,5 +1,3 @@
-Dưới đây là file `README.md` hoàn chỉnh cho dự án của bạn, được tổng hợp từ toàn bộ lịch sử trò chuyện và quá trình gỡ lỗi của chúng ta.
-
 -----
 
 # AI Planning Assistant (Google Cloud + LangChain Edition)
