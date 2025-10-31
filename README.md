@@ -306,11 +306,11 @@ Dưới đây là các ví dụ về cách bot hoạt động.
 
 ### Tương tác RAG và Calendar
 
-(Nơi này để chèn ảnh demo `image_ae91f8.png` và `image_ae999d.png`)
+![Demo_1](./demo_picture/demo1.png)
 
 ### Tương tác Admin
 
-(Nơi này để chèn ảnh demo `image_ae999d.png`)
+![Demo_2](./demo_picture/demo2.png)
 
 ## 8\. Hướng phát triển trong Tương lai
 
